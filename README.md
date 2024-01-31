@@ -3,10 +3,13 @@
 This website project contains 4 webpages a Homepage, Resume page, Project page and Contact Page. <br>
 This site was created using a Bootstrap theme.<br> 
 Homepage:  Introduction video and about me text.<br>
-  <img src="assets/homepage.jpg" />
+  <img src="assets/Homepage.jpg" />
 Resume: Most recent resume with employment, education and skills.<br>
+  <img src="assets/resume.jpg" />
 Projects: 3 projects completed in part 1 of course PacMan, Eyes and Buse Tracker<br>
-Contact: Email contact page<br></h2>
+  <img src="assets/projects.jpg" />
+Contact: Email contact page<br>
+<img src="assets/contact.jpg" /></h2>
 <h44>
   MIT License
 
