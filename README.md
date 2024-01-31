@@ -6,7 +6,7 @@ Homepage:  Introduction video and about me text.<br>
   <img src="assets/Homepage.jpg" />
 Resume: Most recent resume with employment, education and skills.<br>
   <img src="assets/resume.jpg" />
-Projects: 3 projects completed in part 1 of course PacMan, Eyes and Buse Tracker<br>
+Projects: 3 projects completed in part 1 of course PacMan, Eyes and Bus Tracker<br>
   <img src="assets/projects.jpg" />
 Contact: Email contact page<br>
 <img src="assets/contact.jpg" /></h2>
