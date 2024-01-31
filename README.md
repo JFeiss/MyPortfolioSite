@@ -1,6 +1,6 @@
 # MyPortfolioSite
 <h2> This site is a portofolio site created as an excercise for my MERN Stack course at MIT<br>
-This website project contains 4 webpages a Homepage, Resume page, Projectpage and Contact Page. <br>
+This website project contains 4 webpages a Homepage, Resume page, Project page and Contact Page. <br>
 This site was created using a Bootstrap theme.<br> 
 Homepage:  Introduction video and about me text.<br>
 Resume: Most recent resume with employment, education and skills.<br>
