@@ -4,7 +4,7 @@ This website project contains 4 webpages a Homepage, Resume page, Projectpage an
 This site was created using a Bootstrap theme.<br> 
 Homepage:  Introduction video and about me text.<br>
 Resume: Most recent resume with employment, education and skills.<br>
-Projects: 3 project completed in part 1 of course PacMan, Eyes and Buse Tracker<br>
+Projects: 3 projects completed in part 1 of course PacMan, Eyes and Buse Tracker<br>
 Contact: Email contact page<br></h2>
 <h44>
   MIT License
